@@ -1,4 +1,4 @@
-# Challenge - Ecommerce CRUD with Express and JSON
+# Mini APP using NODEJS, Express, ejs and Bootstrap5
 
 ## Descripción
 Este desafío consiste en desarrollar un sistema CRUD (Create, Read, Update, Delete) para un ecommerce utilizando Express como framework de servidor web y un archivo JSON para almacenar los datos.
