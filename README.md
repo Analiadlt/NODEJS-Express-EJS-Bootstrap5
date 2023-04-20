@@ -10,3 +10,4 @@ Tener instalado Node.js y npm en su última versión.
 ## Instrucciones
 Clonar este repositorio.
 Instalar las dependencias necesarias para el proyecto.
+npm install express ejs morgan
